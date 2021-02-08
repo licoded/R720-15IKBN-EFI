@@ -1,6 +1,6 @@
 ## 修改键盘映射
 
-![edit keyboard](images/keyboard.gif)
+<img src="images/keyboard.gif" alt="edit keyboard" style="zoom: 55%;" />
 
 ## USB无线网卡　
 
@@ -9,6 +9,6 @@
 
 京东链接：https://item.jd.com/100004852332.html
 
-![USB无线网卡](images/2020-04-16.jpg)
+<img src="images/2020-04-16.jpg" alt="USB无线网卡" style="zoom:25%;" />
 
 驱动下载：https://github.com/chris1111/Wireless-USB-Adapter-Clover/releases
