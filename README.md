@@ -20,6 +20,10 @@ U盘制作工具，我参考了[B站视频：通俗易懂讲人话，教你配�
 
 1. 允许注入(USB无线网卡驱动安装需要)
 
+   [USB无线网卡CF-811AC](2020SpringFestival/update.md#usb无线网卡)驱动下载地址：[MAC驱动](http://www.comfast.cn/uploadfile/驱动升级/RTLWlanU_MacOS10.11_MacOS10.15_Driver_1830.32.b13_1827.4.b36_UI_5.0.9.b6.zip)
+
+   > 原来的[驱动](https://github.com/chris1111/Wireless-USB-Adapter-Clover)已经无法使用，好像这款USB无线网卡被从支持列表中移除了
+
 <img src="images/Clover Configurator.png" alt="Clover Configurator" style="zoom:50%;" />
 
 2. 去掉-v参数
