@@ -14,3 +14,11 @@ sudo mount -uw /
 ```
 
 > 其他解决方案见[issue](https://github.com/jwise/HoRNDIS/issues/102#issuecomment-551255547)
+
+### 11.2.2BigSur安装失败
+
+```bash
+sudo mount -uw /
+```
+
+终端运行上面的命令有报错（应该是不需要或不能在BigSur系统中使用）；但在安全性与隐私中允许打开，重启并多次安装后能够使用。
